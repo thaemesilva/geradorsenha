@@ -73,7 +73,7 @@
   .password{
     height: 60px;
     background-color: rgba(0,0,0,0.40);
-    border: 1px solid #313131;
+    border: 1px solid #e70b0b;
     
     display: flex;
     justify-content: center;
